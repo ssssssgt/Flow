@@ -1,0 +1,69 @@
+{
+  "name": "flowRecord",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "angular-expressions": "^1.1.9",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "copy-webpack-plugin": "^11.0.0",
+    "cors": "^2.8.5",
+    "docxtemplater": "^3.42.2",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "echarts": "^5.4.3",
+    "element-ui": "^2.15.14",
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "html2canvas": "^1.4.1",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "mammoth": "^1.6.0",
+    "mysql": "^2.18.1",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "pizzip": "^3.1.4",
+    "require": "^2.4.20",
+    "sass": "^1.67.0",
+    "sass-loader": "^13.3.2",
+    "sqlite": "^5.1.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2",
+    "wasm-loader": "^1.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "compression-webpack-plugin": "^10.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "vue-particles": "^1.0.9",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

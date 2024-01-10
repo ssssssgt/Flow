@@ -1,0 +1,2 @@
+(self["webpackChunkflowRecord"]=self["webpackChunkflowRecord"]||[]).push([[698],{71698:function(n,e,u){"use strict";u.r(e),u.d(e,{default:function(){return _}});var t=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,e=n._self._c;return e("div",[e("h1",[n._v("seuif97")]),e("h1",[n._v("详情请看控制台")])])}],f=u(16745),l=u.n(f),o=u(81273),r={name:"seuif97",mounted(){o.log(l()),l().onRuntimeInitialized=function(){l()._test()}}},c=r,s=u(1001),a=(0,s.Z)(c,t,i,!1,null,null,null),_=a.exports},16745:function(){}}]);
+//# sourceMappingURL=698.eacbf135.js.map
